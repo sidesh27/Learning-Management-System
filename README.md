@@ -3,17 +3,7 @@
 ## Description:
 Developed a simulation of Learning management System for teachers and students. Allows teachers to generate MCQ tests for students to attempt and generate a cumulative report of the test attempted by the students.
 
-						:PROJECT:
-
-				*****LMS QUIZ PROJECT IN JAVA*****
-
-
-	OBJECTIVES
-	-----------
-
-->This project deals with a MCQ setup over an LMS platform
-
-   Attributes of this project include:
+## Attributes of this project include:
 
 1.Creation  of a user ID for both teacher and student.
 2.Teacher uploads number of quizes as per their respective subjects. 
