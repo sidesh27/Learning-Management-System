@@ -5,8 +5,8 @@ Developed a simulation of Learning management System for teachers and students. 
 
 ## Attributes of this project include:
 
-1.Creation  of a user ID for both teacher and student.
-2.Teacher uploads number of quizes as per their respective subjects. 
+1.Creation  of a user ID for both teacher and student.\n
+2.Teacher uploads number of quizes as per their respective subjects.\n 
 3.The students can attempt the test and they can review their marks over various quizes they have attempted.
 
 JAVA FILES AND CLASS FILES
